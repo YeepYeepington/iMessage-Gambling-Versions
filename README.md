@@ -1,4 +1,4 @@
-# iMessage-Gambling-Versions
+# iMessage Gambling Versions
 1.0: Initial release 
 # 
 NOTE: Only tested on iPhone, chance of not working on Mac.
