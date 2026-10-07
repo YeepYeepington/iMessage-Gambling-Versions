@@ -1,2 +1,3 @@
 # iMessage-Gambling-Versions
-Versions for iMessage Gambling
+1.0: Initial release
+#
